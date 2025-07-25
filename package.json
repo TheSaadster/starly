@@ -9,6 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@tailwindcss/aspect-ratio": "^0.4.2",
+    "@tailwindcss/forms": "^0.5.10",
+    "@tailwindcss/typography": "^0.5.16",
+    "critters": "^0.0.25",
+    "framer-motion": "^12.23.9",
     "next": "^15.0.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0"
